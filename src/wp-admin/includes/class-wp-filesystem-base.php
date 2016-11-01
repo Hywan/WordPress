@@ -567,7 +567,7 @@ class WP_Filesystem_Base {
 	 * @access public
 	 * @since 2.5.0
 	 * @abstract
-	 * 
+	 *
 	 * @param string $file Path to the file.
 	 * @return string|bool Username of the user or false on error.
 	 */
